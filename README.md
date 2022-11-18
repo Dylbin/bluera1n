@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://avatars.githubusercontent.com/u/114239186?s=100&v=4" alt="palera1n logo">
+    <img src="https://github.com/Dylbin/bluera1n/blob/main/CydiaIcon.png?raw=true" alt="bluera1n logo">
     <p>bluera1n</p>
 </h1>
 <h3 align="center">An iOS 15.0-15.7.1 work-in-progress, semi-tethered checkm8 jailbreak.</h3>
@@ -33,7 +33,7 @@ It boots the device with multiple patches required. On first run, it'll boot a r
 - Linux or macOS computer
   - Python 3 must be installed.
 
-1. Clone this repo with `git clone --recursive https://github.com/palera1n/palera1n && cd palera1n`
+1. Clone this repo with `git clone --recursive https://github.com/Dylbin/bluera1n && cd bluera1n`
 2. Run `./bluera1n.sh --tweaks <your current iOS version>` (run with `sudo` if you're on linux)
    - [A10 and A11] Before running, **you must disable your passcode**.
    - Put your device in DFU mode before running.
