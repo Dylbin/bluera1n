@@ -2,7 +2,7 @@
     <img src="https://github.com/Dylbin/bluera1n/blob/main/CydiaIcon.png?raw=true" alt="bluera1n logo">
     <p>bluera1n</p>
 </h1>
-<h3 align="center">An iOS 15.0-15.7.1 work-in-progress, semi-tethered checkm8 jailbreak.</h3>
+<h3 align="center">An iOS 15.0-15.7.1 work-in-progress, semi-tethered jailbreak based on the checkm8 BootROM exploit.</h3>
 <p align="center">
 </p>
 
