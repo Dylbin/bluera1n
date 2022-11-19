@@ -13,8 +13,8 @@ It boots the device with multiple patches required. On first run, it'll boot a r
 - no
 
 ### Linux
-- Linux has some weird usbmuxd issues. We have tried our best to fix them, but there still are issues. We highly recommend to compile and install usbmuxd2.
-- Stop making issues about Linux not being able to connect, we are aware. This includes being stuck on waiting for ramdisk to finish booting.
+- Linux has some weird usbmuxd issues. I have tried our best to fix them, but there still are issues. I highly recommend to compile and install usbmuxd2.
+- Do not create issues about Linux not being able to connect, I am aware. This includes being stuck on waiting for ramdisk to finish booting.
 
 ### Warning
 - I am **NOT** responsible for any data loss. The user of this program accepts responsibility should something happen to their device. While nothing should happen, jailbreaking has risks in itself. **If your device is stuck in recovery, please run one of the following:**
@@ -31,7 +31,7 @@ It boots the device with multiple patches required. On first run, it'll boot a r
 - A checkm8 vulnerable iOS device on iOS 15.x (A8-A11)
   - The device must be on iOS 15.0-15.7.1
 - Linux or macOS computer
-  - Python 3 must be installed.
+  - [Python 3](https://www.python.org/) must be installed.
 
 1. Clone this repo with `git clone --recursive https://github.com/Dylbin/bluera1n && cd bluera1n`
 2. Run `./bluera1n.sh --tweaks <your current iOS version>` (run with `sudo` if you're on linux)
